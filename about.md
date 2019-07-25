@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+<script src="https://www.hackthebox.eu/badge/138442"></script>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[matthew.norris96@gmail.com](mailto:matthew.norris96@gmail.com)
