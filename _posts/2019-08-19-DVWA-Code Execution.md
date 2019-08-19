@@ -3,6 +3,8 @@ layout: post
 title: Dam Vulnerable Web App Code Execution
 ---
 
+Exploiting the Dam Vulernable Web App
+
 # DVWA Command Execution LOW
 
 
