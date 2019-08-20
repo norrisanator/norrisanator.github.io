@@ -47,7 +47,7 @@ Now we rename shell.jpg to shell.php but keep the content-type as image/jpeg. If
 
 Success we managed to upload shell.php to the server and now can access it with weevely the same way we did for the low setting.
 
-#DVWA UPLOAD HIGH
+# DVWA UPLOAD HIGH
 
 If we try the same method again we can see that it doesn’t work. Now it’s checking the file type and the extension. We can still bypass this with burp suite by intercepting it. 
 We know that it checks the content-type and the file extension. 
