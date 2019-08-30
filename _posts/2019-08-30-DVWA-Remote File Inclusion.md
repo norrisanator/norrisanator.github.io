@@ -43,9 +43,8 @@ High stops us from including any page but include.php .
 # Ways of mitigating file inclusion
 
 Prevent remove file inclusion
-	Disable allow_url_fopen and allow_url_include
-	
-	Edit the files in /etc/php5/cgi/php.ini and set to off.
+* Disable allow_url_fopen and allow_url_include
+* Edit the files in /etc/php5/cgi/php.ini and set to off.
 
 Prevent local file inclusion
-	Use static file inclusion
+* Use static file inclusion
