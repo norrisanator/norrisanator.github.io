@@ -16,7 +16,10 @@ permalink: /about/
 + Linux console
 + Windows console
 + Metasploit
-+ VMWare
++ smbclient
++ samdump2
++ searchsploit
++ VMWare Workstation
 #### Techniques
 + Pen testing
 + CTF
