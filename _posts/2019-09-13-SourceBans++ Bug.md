@@ -6,7 +6,7 @@ title: SourceBans++ Bug
 SourceBans++ is a global admin, ban, and communication management for the Source engine.
 
 
-Version: SourceBans++ 1.5.4.7
+Version: SourceBans++ 1.5.4.7 and 1.7.0.931 thanks to github.com/rumblefrog
 
 ## Discovery
 
