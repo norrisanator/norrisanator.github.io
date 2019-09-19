@@ -3,7 +3,9 @@ layout: post
 title: Over the wire Bandit level 0 to 12
 ---
 
-# Over the wire level Bandit level 0 to 12
+Over the wire bandit was really fun way to learn linux commands
+
+### Over the wire level Bandit level 0 to 12
 
 http://overthewire.org/wargames/bandit/
 
