@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kawaiicon
+title: Kawaiicon 2019
 ---
 
 # Kawaiicon 2019
@@ -28,3 +28,4 @@ Some of my favourite talks were:
     This red team talk was cool to listen to and can show that clients may want red teaming but not actually want actual red teaming which can be difficult.
 
 Progressing towards taking OSCP, will upload some of the work I've being doing in October. Kioptrix 1,2,3 and a hackthebox writeup.
+git 
