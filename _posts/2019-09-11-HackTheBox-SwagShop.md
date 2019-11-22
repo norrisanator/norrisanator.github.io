@@ -1,3 +1,13 @@
+---
+layout: post
+title: Hack The Box SwagShop
+---
+
+Swagshop was a fun box to do, but I had to redo my process to own the box since they changed the exploit I used originally.
+
+# SwagShop
+10.10.10.140
+
 ```
 nmap -sV -sC 10.10.10.140
 Starting Nmap 7.80SVN ( https://nmap.org ) at 2019-11-22 18:22 NZDT
