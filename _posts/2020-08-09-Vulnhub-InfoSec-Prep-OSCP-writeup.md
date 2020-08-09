@@ -5,6 +5,8 @@ title: Vulnhub InfoSec Prep OSCP Writeup
 
 Vulnhub writeup
 
+https://www.vulnhub.com/entry/infosec-prep-oscp,508/
+
 Start with a full nmap scan
 ```
 nmap -A -p- -oA fullallport 192.168.0.15
