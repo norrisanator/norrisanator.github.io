@@ -3,7 +3,7 @@ layout: post
 title: Vulnhub InfoSec Prep OSCP Writeup
 ---
 
-# Vulnhub writeup
+Vulnhub writeup
 
 Start with a full nmap scan
 ```
